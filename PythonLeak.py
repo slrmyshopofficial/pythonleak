@@ -1,7 +1,7 @@
 import random
 def display_state_codes():
     state_codes = {
-    "SlrmyApi -": ["https://slrmyshop.com.my/api],
+    "SlrmyApi -": ["https://slrmyshop.com.my/api"],
         "JOHOR": ["01","21","22","23","24"],
         "KEDAH": ["02","25","26","27"],
         "KELANTAN": ["03","28","29"],
